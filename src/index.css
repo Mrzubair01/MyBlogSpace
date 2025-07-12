@@ -1,0 +1,8 @@
+@import "tailwindcss";
+*::selection {
+  background: #e9c2ab;
+  color: #ff5c35;
+}
+body {
+  background: linear-gradient(120deg, #c16a55 0%, #cc8263 35%, #f9e6d4 100%);
+}
