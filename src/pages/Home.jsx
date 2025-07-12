@@ -13,7 +13,7 @@ function Home() {
   const [posts, setPosts] = useState([]);
 
   useEffect(() => {
-    appwriteService.getPostsByUser(userId.$id).then((posts) => {
+    appwriteService.getPostsByUser(userId?.$id).then((posts) => {
       if (posts) {
         setPosts(posts.documents);
       }
