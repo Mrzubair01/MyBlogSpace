@@ -7,7 +7,7 @@ import Button from './Button'
 import Select from './Select'
 import Input from './Input'
 import Login from './Login'
-import SignUp from "./SignUp";
+import SignUp from "./Signup.jsx";
 import RTE from "./RTE";
 import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
