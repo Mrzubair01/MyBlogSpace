@@ -24,11 +24,16 @@ A modern, full-stack Blog Application built with **React** and **Appwrite**. Use
 
 ---
 
-## 📦 Installation
+## Demo
 
-### 1. Clone the repository
+https://myblogspace-544l.onrender.com
 
-```bash
-git clone https://github.com/Mrzubair01/MyBlogSpace.git
-cd myblogspace
-```
+## 🤝 Contributing
+
+If you would like to contribute to **MyBlogSpace**, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zubair-alam-/) and we can collaborate!
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
